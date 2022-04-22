@@ -1,13 +1,13 @@
-  MY NAME:<br>
+MY NAME:<br>
 👋 Hi, I’m @Zi-Egg<br>
   MY INTERESTS:<br>
 🎮I’m interested in Game Development<br>
   CURRENTLY:<br>
 📘I’m currently learning Unity&C#<br>
   COOPERATION:<br>
-🔴Not at the moment<br>
+🔴Not at the moment BUT could use some help in my projects<br>
   CONTACT:<br>
-(That's The Fun Part...You Can't)
+📞(That's The Fun Part...You Can't)
 
 <!---
 Zi-Egg/Zi-Egg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
